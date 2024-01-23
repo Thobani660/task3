@@ -1,0 +1,73 @@
+.main {
+    width: 600px;
+    height: 800px;
+    border-radius: 20px;
+    background-color:  rgb(65, 2, 65) ;
+
+
+}
+img {
+    height: 70px;
+    width: 70px;
+    border-radius: 20px;
+    margin-left: 40px;
+}
+.navigator {
+background-color:rgba(65, 2, 65, 0.385) ;
+justify-content: space-between;
+display: flex;
+color: white;
+}
+.story {
+    background-color: blue;
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+.story:hover {
+    background-image: linear-gradient(to left, #ff2132 30%, #ff21339e 70%);
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.profile {
+background-color: blue;
+width: 100px;
+height: 50px;
+border-radius: 30px;
+}
+.profile:hover {
+    background-image: linear-gradient(to left, #ff2132 30%, #ff21339e 70%);
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+    }
+.elapsise {
+    background-color: blue;
+width: 100px;
+height: 50px;
+border-radius: 30px;
+}
+.elapsise:hover {
+    background-image: linear-gradient(to left, #ff2132 30%, #ff21339e 70%);
+    width: 100px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+
+ul {
+    list-style: none;
+}
+.button {
+    display: flex;
+}
+.photo1 {
+    background-color:rgba(65, 2, 65, 0.494) ;
+    width: 500px;
+}
+.photos {
+    display: flex;
+    background-color:rgba(65, 2, 65, 0.494) ;
+}
